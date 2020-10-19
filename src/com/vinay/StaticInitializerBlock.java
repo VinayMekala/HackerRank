@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class StaticInitializerBlock {
 	
-
 public static int B,H;
 static boolean flag=true;
 static { 
@@ -16,17 +15,14 @@ static {
     System.out.println("java.lang.Exception: Breadth and height must be positive");
     flag = false;
     }
-
     
 }
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 
 		if(flag){
 			int area=B*H;
 			System.out.print(area);
-		}
-		
+		}		
 	}
-
 }
