@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
 
+//Read some unknown  lines of input from stdin(System.in) until you reach EOF; each line of input contains a non-empty String.
+
+
 public class EndOfFile {
 
 	public static void main(String[] args) {

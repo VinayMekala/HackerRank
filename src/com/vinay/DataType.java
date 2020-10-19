@@ -2,6 +2,19 @@ package com.vinay;
 
 import java.util.Scanner;
 
+/*primitives used to hold integer values (byte, short, int, and long):
+
+A byte is an 8-bit signed integer.
+A short is a 16-bit signed integer.
+An int is a 32-bit signed integer.
+A long is a 64-bit signed integer.
+Given an input integer, you must determine which primitive data types are capable of properly storing that input.
+
+The first line contains an integer, T, denoting the number of test cases.
+Each test case, T, is comprised of a single line with an integer,n , which can be arbitrarily large or small.
+
+*/
+
 public class DataType {
 
 	public static void main(String[] args) {
