@@ -1,5 +1,7 @@
 package com.vinay;
 
+import java.util.Scanner;
+
 public class JavaStringsIntro {
 
 	public static void main(String[] args) {
